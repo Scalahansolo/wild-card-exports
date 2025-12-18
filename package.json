@@ -1,0 +1,7 @@
+{
+  "name": "wild-card-exports-monorepo",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "@repo/app",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "dependencies": {
+    "@repo/library": "*",
+    "@types/react": "^18.0.0",
+    "react": "^18.0.0",
+    "typescript": "^5.0.0"
+  }
+}
